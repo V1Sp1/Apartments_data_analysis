@@ -1,4 +1,4 @@
-# Apartments_data_analysis
+# Apartments data analysis
 Analysis of apartments for sale in Poland.
 Various statistical tests have been implemented (Shapiro-Wilk, Mann-Whitney, Fisher, T-test, Z-test, chi-square and many others). Also project
 includes analysis of variance and the use of machine learning algorithms. Data represents
